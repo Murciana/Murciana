@@ -22,12 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
-<!--
+<br>
+
 ### Une de mes œuvres préférées
 
 <p align="center">
   <img src="https://d1ee3oaj5b5ueh.cloudfront.net/thumbs/1440xAUTO_processed_article_2023_08_bf55f839-973a-482f-89aa-91e6c30c34b6-banner-master.jpg" alt="Gustav Klimt - Le baiser" width="600"/>
 </p>
--->
+
 
 
